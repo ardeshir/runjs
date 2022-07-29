@@ -1,6 +1,6 @@
-site_name: Ardeshir Sepahsalar
+site_name: Rust Js Runtime
 site_author: ardeshir
-repo_url: "https://github.com/ardeshir/ardeshir.github.io"
+repo_url: "https://github.com/ardeshir/runjs"
 repo_name: Github
 
 docs_dir: "docs"
